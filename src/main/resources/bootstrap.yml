@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: GateWayV3
+  profiles:
+    active: dev
+    
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://127.0.0.1:9003/eureka
+#  instance:
+#    prefer-ip-address: true
